@@ -1,0 +1,10 @@
+body {
+	font-family: Verdana;
+	color: #112222;
+}
+
+#quiz {
+	margin: auto;
+	width: 50vw;
+	border: 1px solid #543AAA;
+}
